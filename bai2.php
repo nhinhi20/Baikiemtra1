@@ -41,7 +41,11 @@ $totalValue = calculateTotalValue($products);
 echo "<br>Tổng giá trị của tất cả sản phẩm là: $" . $totalValue;
 ?>
 
-//Câu 3: Biến trong PHP bắt đầu bằng ký tự gì
+//Câu 1: Điền kết quả được in ra màn hình của đoạn mã sau:
+5
+Câu 2: Điền kết quả được in ra màn hình của đoạn mã sau:
+d.Error
+Câu 3: Biến trong PHP bắt đầu bằng ký tự gì
 d. $
 Câu 4: Hàm nào dùng để in ra màn hình trong PHP?
 a. echo()
